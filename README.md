@@ -81,6 +81,8 @@ This lab simulates foundational Blue Team activities commonly performed by syste
 - Applied security patches to reduce exposure to known vulnerabilities
 - Improved system stability and protection against exploits
 
+![Lab Screenshot 2](screenshot/2.png)
+
 ### Firewall Rule Configuration
 - Configured firewall policies to control network traffic
 - Reduced unauthorized communication between systems
@@ -96,6 +98,7 @@ This lab simulates foundational Blue Team activities commonly performed by syste
 - Reduced potential entry points for attackers
 - Improved overall system security posture
 
+![Lab Screenshot 3](screenshot/3.png)
 ---
 
 ## Key Security Concepts Applied
@@ -125,13 +128,10 @@ Disabled unnecessary services and devices to minimize potential attack vectors.
 - Validation and testing results
 
 ### Lab Screenshots
-![Lab Screenshot 1](./Screenshots/1.jfif)
+![Lab Screenshot 1](screenshot/1.png)
 
-![Lab Screenshot 2](./Screenshots/page2.png)
 
-![Lab Screenshot 3](./Screenshots/page3.png)
-
-![Lab Screenshot 4](./Screenshots/page4.png)
+![Lab Screenshot 4](screenshot/4.png)
 
 ---
 

@@ -16,7 +16,7 @@ The project demonstrates practical experience in:
 - Service and device management
 - Defensive security and system hardening principles
 
-![System Hardening Lab](./Screenshots/lab-overview.png)
+![System Hardening Lab](screenshot/cp.png)
 
 This lab simulates foundational Blue Team activities commonly performed by system administrators, SOC analysts, and cybersecurity professionals.
 
@@ -125,7 +125,7 @@ Disabled unnecessary services and devices to minimize potential attack vectors.
 - Validation and testing results
 
 ### Lab Screenshots
-![Lab Screenshot 1](./Screenshots/page1.png)
+![Lab Screenshot 1](./Screenshots/1.jfif)
 
 ![Lab Screenshot 2](./Screenshots/page2.png)
 
